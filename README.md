@@ -1,6 +1,9 @@
-# info-movies-react
+# Movies in react
 
-Projeto feito na video aula Matheus Battisti
+Project created in Matheus Battisti's class on youtube
 
-- [Video](https://www.youtube.com/watch?v=XqxUHVVO7-U&ab_channel=MatheusBattisti-HoradeCodar)
-- [Canal](https://www.youtube.com/c/MatheusBattisti)
+Video
+- [PROJETO DE FILMES COM REACT E API DO TMDB (REACT ROUTER, REACT HOOKS)](https://www.youtube.com/watch?v=XqxUHVVO7-U&ab_channel=MatheusBattisti-HoradeCodar)
+
+Channel
+- [Matheus Battisti - Hora de Codar](https://www.youtube.com/c/MatheusBattisti)
